@@ -5,8 +5,10 @@
 # Due Date: May 1st, 2025
 # Course #/Section: IS 4010 Section 001
 # Semester/Year: Spring 2025
-# Brief Description of the assignment: In this group project, we decrypt a location and a movie title from JSON files and a text file, display a group photo with a famous quote from the decrypted movie at the decrypted location, and print the decrypted messages.
-# Brief Description of what this module does: This module provides functions to load data from JSON and text files, and print a quote from the movie "Hoosiers" in a stylized format.
+# Brief Description of the assignment: This final project involves decrypting a hidden movie title and location from encrypted data sources, then presenting a themed display that includes a group image, a quote from the movie "Hoosiers," and the decrypted outputs. The project emphasizes modular coding, data handling, and creative storytelling using Python.
+
+# Brief Description of what this module does: Contains utility functions for reading JSON and text files used in the decryption process, and prints a stylized motivational quote from the movie "Hoosiers" as part of the final project output display.
+
 # Citations: openai.com/chatgpt
 # Anything else that's relevant: N/A
 
